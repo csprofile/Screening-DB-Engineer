@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="LocalhostDS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=(local)\MSSQLSERVERSTD;Initial Catalog=ScreeningProject</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source LocalhostDS</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>4192ff5a-4d1f-4535-b355-d3c972713d60</DataSourceID>
+</RptDataSource>
